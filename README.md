@@ -3,7 +3,9 @@ JavaScript Challenge: Password Generator
 
 My github: https://github.com/thomaswoods25
 
-Published site: https://github.com/thomaswoods25/Password-Generator.git
+My github repo: https://github.com/thomaswoods25/Password-Generator
+
+Published site: https://thomaswoods25.github.io/Password-Generator/
 
 Screenshot: <img src="./assets/images/password-generator-model.png"
                  
