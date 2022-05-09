@@ -9,18 +9,16 @@ body {
   font-family: sans-serif;
   background-color: #f9fbfd;
   min-height:100vh;
-  display: flex,
+  display: flex;
   justify-content: center;
   align-items: center;
-  font-family: Times New Roman, Times, Georgia
 }
 
-
-}
 html,
 body,
 .wrapper {
   height: 100%;
+  width: 100%;
   margin: 0;
   padding: 0;
 }
@@ -88,10 +86,10 @@ header {
     0px;
   color: hsl(0, 0%, 100%);
   display: inline-block;
-  font-size: 22px;
-  line-height: 22px;
-  margin: 16px 16px 16px 20px;
-  padding: 14px 34px;
+  font-size: 25px;
+  line-height: 25px;
+  margin: 18px 18px 18px 20px;
+  padding: 15px 35px;
   text-align: center;
   cursor: pointer;
 }
@@ -112,9 +110,9 @@ button[disabled] {
   border: none;
   display: block;
   width: 100%;
-  padding-top: 20px;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-top: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
   padding-bottom: 85px;
   font-size: 1.2rem;
   text-align: center;
